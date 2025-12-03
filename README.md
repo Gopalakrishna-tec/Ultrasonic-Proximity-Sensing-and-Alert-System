@@ -27,8 +27,8 @@ A simple Arduino-based proximity alert system using the **HC-SR05 ultrasonic sen
 - Cathode (–) → GND  
 
 ### Buzzer → Arduino
-- + → D8  
-- o → GND  
+- Anode (+) → D8  
+- Cathode (o) → GND  
 
 ---
 
